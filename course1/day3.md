@@ -304,6 +304,8 @@ s1.pop() # Remove a random element
 ```
 
 # Booleans
+
+
 ```
 my_bool = 3 > 2
 my_bool = bool(3 > 2)
